@@ -1,3 +1,3 @@
 # Data-manipulation-visualisation-using-Python
-Self work, using Numpy, Matplotlib, Pandas.
+Self work, data analysis.
 Comming up more.
